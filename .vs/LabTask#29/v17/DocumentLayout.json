@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Praktikant\\GarageTask\\LabTask#29\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38DDC37C-317B-4A11-87CB-B1409F6125F1}|LabTask#29\\LabTask#29.csproj|d:\\praktikant\\garagetask\\labtask#29\\labtask#29\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38DDC37C-317B-4A11-87CB-B1409F6125F1}|LabTask#29\\LabTask#29.csproj|solutionrelative:labtask#29\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38DDC37C-317B-4A11-87CB-B1409F6125F1}|LabTask#29\\LabTask#29.csproj|D:\\Praktikant\\GarageTask\\LabTask#29\\labtask#29\\models\\sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38DDC37C-317B-4A11-87CB-B1409F6125F1}|LabTask#29\\LabTask#29.csproj|solutionrelative:labtask#29\\models\\sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38DDC37C-317B-4A11-87CB-B1409F6125F1}|LabTask#29\\LabTask#29.csproj|D:\\Praktikant\\GarageTask\\LabTask#29\\labtask#29\\models\\zoomagazin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38DDC37C-317B-4A11-87CB-B1409F6125F1}|LabTask#29\\LabTask#29.csproj|solutionrelative:labtask#29\\models\\zoomagazin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38DDC37C-317B-4A11-87CB-B1409F6125F1}|LabTask#29\\LabTask#29.csproj|D:\\Praktikant\\GarageTask\\LabTask#29\\labtask#29\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38DDC37C-317B-4A11-87CB-B1409F6125F1}|LabTask#29\\LabTask#29.csproj|solutionrelative:labtask#29\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38DDC37C-317B-4A11-87CB-B1409F6125F1}|LabTask#29\\LabTask#29.csproj|D:\\Praktikant\\GarageTask\\LabTask#29\\labtask#29\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38DDC37C-317B-4A11-87CB-B1409F6125F1}|LabTask#29\\LabTask#29.csproj|solutionrelative:labtask#29\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38DDC37C-317B-4A11-87CB-B1409F6125F1}|LabTask#29\\LabTask#29.csproj|D:\\Praktikant\\GarageTask\\LabTask#29\\labtask#29\\interfaces\\izoomagazin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38DDC37C-317B-4A11-87CB-B1409F6125F1}|LabTask#29\\LabTask#29.csproj|solutionrelative:labtask#29\\interfaces\\izoomagazin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38DDC37C-317B-4A11-87CB-B1409F6125F1}|LabTask#29\\LabTask#29.csproj|D:\\Praktikant\\GarageTask\\LabTask#29\\labtask#29\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38DDC37C-317B-4A11-87CB-B1409F6125F1}|LabTask#29\\LabTask#29.csproj|solutionrelative:labtask#29\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38DDC37C-317B-4A11-87CB-B1409F6125F1}|LabTask#29\\LabTask#29.csproj|D:\\Praktikant\\GarageTask\\LabTask#29\\labtask#29\\enums\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38DDC37C-317B-4A11-87CB-B1409F6125F1}|LabTask#29\\LabTask#29.csproj|solutionrelative:labtask#29\\enums\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38DDC37C-317B-4A11-87CB-B1409F6125F1}|LabTask#29\\LabTask#29.csproj|D:\\Praktikant\\GarageTask\\LabTask#29\\labtask#29\\interfaces\\iuserloginregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38DDC37C-317B-4A11-87CB-B1409F6125F1}|LabTask#29\\LabTask#29.csproj|solutionrelative:labtask#29\\interfaces\\iuserloginregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Praktikant\\GarageTask\\LabTask#29\\LabTask#29\\Models\\User.cs",
+              "RelativeDocumentMoniker": "LabTask#29\\Models\\User.cs",
+              "ToolTip": "D:\\Praktikant\\GarageTask\\LabTask#29\\LabTask#29\\Models\\User.cs",
+              "RelativeToolTip": "LabTask#29\\Models\\User.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAcwFUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T06:25:15.339Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Praktikant\\GarageTask\\LabTask#29\\LabTask#29\\Program.cs",
+              "RelativeDocumentMoniker": "LabTask#29\\Program.cs",
+              "ToolTip": "D:\\Praktikant\\GarageTask\\LabTask#29\\LabTask#29\\Program.cs",
+              "RelativeToolTip": "LabTask#29\\Program.cs",
+              "ViewState": "AQIAAKQAAAAAAAAAAAAAAK4AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T06:24:36.246Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sales.cs",
+              "DocumentMoniker": "D:\\Praktikant\\GarageTask\\LabTask#29\\LabTask#29\\Models\\Sales.cs",
+              "RelativeDocumentMoniker": "LabTask#29\\Models\\Sales.cs",
+              "ToolTip": "D:\\Praktikant\\GarageTask\\LabTask#29\\LabTask#29\\Models\\Sales.cs",
+              "RelativeToolTip": "LabTask#29\\Models\\Sales.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAIwFEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T06:33:38.415Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Praktikant\\GarageTask\\LabTask#29\\LabTask#29\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "LabTask#29\\Models\\Product.cs",
+              "ToolTip": "D:\\Praktikant\\GarageTask\\LabTask#29\\LabTask#29\\Models\\Product.cs",
+              "RelativeToolTip": "LabTask#29\\Models\\Product.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAIAwwD0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T06:38:54.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\Praktikant\\GarageTask\\LabTask#29\\LabTask#29\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "LabTask#29\\Models\\Customer.cs",
+              "ToolTip": "D:\\Praktikant\\GarageTask\\LabTask#29\\LabTask#29\\Models\\Customer.cs",
+              "RelativeToolTip": "LabTask#29\\Models\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T06:33:28.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ZooMagazin.cs",
+              "DocumentMoniker": "D:\\Praktikant\\GarageTask\\LabTask#29\\LabTask#29\\Models\\ZooMagazin.cs",
+              "RelativeDocumentMoniker": "LabTask#29\\Models\\ZooMagazin.cs",
+              "ToolTip": "D:\\Praktikant\\GarageTask\\LabTask#29\\LabTask#29\\Models\\ZooMagazin.cs",
+              "RelativeToolTip": "LabTask#29\\Models\\ZooMagazin.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAkwGMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T06:33:18.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IZooMagazin.cs",
+              "DocumentMoniker": "D:\\Praktikant\\GarageTask\\LabTask#29\\LabTask#29\\Interfaces\\IZooMagazin.cs",
+              "RelativeDocumentMoniker": "LabTask#29\\Interfaces\\IZooMagazin.cs",
+              "ToolTip": "D:\\Praktikant\\GarageTask\\LabTask#29\\LabTask#29\\Interfaces\\IZooMagazin.cs",
+              "RelativeToolTip": "LabTask#29\\Interfaces\\IZooMagazin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T08:12:21.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Role.cs",
+              "DocumentMoniker": "D:\\Praktikant\\GarageTask\\LabTask#29\\LabTask#29\\Enums\\Role.cs",
+              "RelativeDocumentMoniker": "LabTask#29\\Enums\\Role.cs",
+              "ToolTip": "D:\\Praktikant\\GarageTask\\LabTask#29\\LabTask#29\\Enums\\Role.cs",
+              "RelativeToolTip": "LabTask#29\\Enums\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T06:31:55.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IUserLoginRegister.cs",
+              "DocumentMoniker": "D:\\Praktikant\\GarageTask\\LabTask#29\\LabTask#29\\Interfaces\\IUserLoginRegister.cs",
+              "RelativeDocumentMoniker": "LabTask#29\\Interfaces\\IUserLoginRegister.cs",
+              "ToolTip": "D:\\Praktikant\\GarageTask\\LabTask#29\\LabTask#29\\Interfaces\\IUserLoginRegister.cs",
+              "RelativeToolTip": "LabTask#29\\Interfaces\\IUserLoginRegister.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T06:29:00.193Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
